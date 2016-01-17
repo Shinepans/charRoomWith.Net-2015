@@ -1,0 +1,10 @@
+d:\用户目录\我的文档\visual studio 2013\Projects\SocektClient\SocektClient\bin\Debug\SocektClient.exe.config
+d:\用户目录\我的文档\visual studio 2013\Projects\SocektClient\SocektClient\obj\Debug\SocektClient.csprojResolveAssemblyReference.cache
+d:\用户目录\我的文档\visual studio 2013\Projects\SocektClient\SocektClient\obj\Debug\SocektClient.Properties.Resources.resources
+d:\用户目录\我的文档\visual studio 2013\Projects\SocektClient\SocektClient\obj\Debug\SocektClient.csproj.GenerateResource.Cache
+d:\用户目录\我的文档\visual studio 2013\Projects\SocektClient\SocektClient\bin\Debug\SocektClient.exe
+d:\用户目录\我的文档\visual studio 2013\Projects\SocektClient\SocektClient\bin\Debug\SocektClient.pdb
+d:\用户目录\我的文档\visual studio 2013\Projects\SocektClient\SocektClient\obj\Debug\SocketClient.Form2.resources
+d:\用户目录\我的文档\visual studio 2013\Projects\SocektClient\SocektClient\obj\Debug\SocektClient.exe
+d:\用户目录\我的文档\visual studio 2013\Projects\SocektClient\SocektClient\obj\Debug\SocektClient.pdb
+d:\用户目录\我的文档\visual studio 2013\Projects\SocektClient\SocektClient\obj\Debug\SocektClient.Hform.resources

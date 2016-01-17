@@ -1,0 +1,10 @@
+d:\用户目录\我的文档\visual studio 2013\Projects\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
+d:\用户目录\我的文档\visual studio 2013\Projects\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+d:\用户目录\我的文档\visual studio 2013\Projects\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+d:\用户目录\我的文档\visual studio 2013\Projects\SocketServer\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+d:\用户目录\我的文档\visual studio 2013\Projects\SocketServer\SocketServer\obj\Debug\SocketServer.Form1.resources
+d:\用户目录\我的文档\visual studio 2013\Projects\SocketServer\SocketServer\obj\Debug\SocketServer.Properties.Resources.resources
+d:\用户目录\我的文档\visual studio 2013\Projects\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.GenerateResource.Cache
+d:\用户目录\我的文档\visual studio 2013\Projects\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+d:\用户目录\我的文档\visual studio 2013\Projects\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
+d:\用户目录\我的文档\visual studio 2013\Projects\SocketServer\SocketServer\obj\Debug\SocketServer.HForm.resources
